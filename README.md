@@ -1,4 +1,4 @@
-Description:- This project implements a playlist management system using a doubly linked list,Queue in Python. Users can add, delete, search, and sort songs in the playlist, and also manage a list of recently played tracks.
+Description:- This project implements a playlist management system using a doubly linked list,Queue and file handling in Python. Users can add, delete, search, and sort songs in the playlist, and also manage a list of recently played tracks.
 
 achievements:- Users can dynamically add and remove songs to/from a playlist, sort songs alphabetically, and search for specific tracks. The system also maintains a persistent playlist file and keeps track of recently played songs for easy access.
 
